@@ -23,8 +23,6 @@ Olá, me chamo **Felipe Quaresma**, sou de São Paulo-SP, Brasil, estou me capac
 - 💼 Estou perseguindo conhecimento para evoluir tanto em **Hardskills** quanto **Softskills**;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para felipequada@gmail.com para me encontrar;
-- 📝 Veja meu <a href="/" target="_blank">Curriculum Vitae</a> para mais informações;
-- 👋 Veja meu <a href="/" target="_blank">Portfolio</a> para mais informações;
 - 🎓 Repositorios que mais me orgulho :
   - <a href="https://github.com/FeQuaresma/rapazicord" target="_blank">Replica de chat</a>;
 
