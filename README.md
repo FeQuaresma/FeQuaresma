@@ -15,8 +15,6 @@ Olá, me chamo **Felipe Quaresma**, sou de São Paulo-SP, Brasil, estou me capac
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://s.yimg.com/ny/api/res/1.2/4_jkG9dnPDR6JPievzHvBA--/YXBwaWQ9aGlnaGxhbmRlcjtoPTY2Ng--/https://media.zenfs.com/pt-br/canal_tech_990/32e2e79cb01a2d286b347dddfe7328ef" width="400px" />
-
 - 👨💻 Estou estudando **front-end** com o foco nos **Frameworks** e **Bibliotecas** mais usadas no mercado;
 - 🌱 Estou aprendendo neste momento utilizar **Next.js** utilizando **Typescript**; 
 - 🤔 Meus hobbies são tecnologia e design, apesar de estar focado em front-end costumo estar sempre aprendendo novas tecnologias;
